@@ -22,7 +22,7 @@
 
 
         return {
-            getUser: getUser,
+            getUser:getUser,
             getRepos:getRepos
         };
     };
